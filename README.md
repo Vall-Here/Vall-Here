@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello;im+Ahmad+noval)](https://git.io/typing-svg)
+
 I am now a student of trunojoyo madura university, I am interested in the field of software developers and game developers, I have learned a little android developer using flutter, and quite understand using react, and laravel as a web developer.
 
 ## 🌐 Socials:
