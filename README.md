@@ -5,7 +5,7 @@
 I am now a student of trunojoyo madura university, I am interested in the field of software developers and game developers, I have learned a little bit at android developer using flutter and react native, and quite understand using react, and laravel as a web developer.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/achnovalbermas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.vaall) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/achnovalbermas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/a.vaaall/profilecard/) 
 
 # 💻 Tech Stack:
 
