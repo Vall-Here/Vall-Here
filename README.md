@@ -55,3 +55,13 @@ I am now a student of trunojoyo madura university, I am interested in the field 
 [![](https://visitcount.itsvg.in/api?id=ahmadNoval&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+
+<div align="center"> 
+	<br/>
+	<p>Visitor count</p>
+	<a href="https://github.com/Vall-Here">
+  	<img src="https://profile-counter.glitch.me/Vall-Here/count.svg" />
+	</a>
+</div>
+
+
