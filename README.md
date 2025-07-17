@@ -57,7 +57,3 @@ I am now a student of trunojoyo madura university, I am interested in the field 
 
 
 
-[![Visitor Count](https://profile-counter.glitch.me/Vall-Here/count.svg)](https://github.com/Vall-Here)
-
-
-
