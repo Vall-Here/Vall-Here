@@ -52,7 +52,7 @@ I am now a student of trunojoyo madura university, I am interested in the field 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahmadNoval&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Vall-Here&color=blue)
 
 
 
