@@ -56,12 +56,8 @@ I am now a student of trunojoyo madura university, I am interested in the field 
 
 
 
-<div align="center"> 
-	<br/>
-	<p>Visitor count</p>
-	<a href="https://github.com/Vall-Here">
-  	<img src="https://profile-counter.glitch.me/Vall-Here/count.svg" />
-	</a>
-</div>
+
+[![Visitor Count](https://profile-counter.glitch.me/Vall-Here/count.svg)](https://github.com/Vall-Here)
+
 
 
