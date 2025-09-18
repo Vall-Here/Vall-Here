@@ -39,11 +39,6 @@ I am now a student of trunojoyo madura university, I am interested in the field 
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmadNoval&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmadNoval&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadNoval&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ###
 
 <br clear="both">
