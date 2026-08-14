@@ -21,9 +21,9 @@
 
 ### About Me
 
-- I’m currently studying at **Trunojoyo Madura University**
-- I’m currently learning/exploring **Flutter, React Native, React, Laravel, and Game Development**
-- Ask me about **Web & Android Development**
+- Graduated with Bachelor's Degree on Computer Engineering at **Trunojoyo Madura University**
+- I’m currently learning/exploring **Flutter, Next.js, Laravel, and Game Development Unity**
+- Ask me about **Web & Game Development**
 - How to reach me: via my **[Website](https://ahmadnoval-dev.my.id)**
 
 ### Technical Expertise
