@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <em>I am a student at Trunojoyo Madura University, passionate about software and game development.<br> Exploring web, mobile, and interactive digital worlds!</em>
+  <em>Passionate about software and game development.<br> Exploring web, mobile, games, and interactive digital worlds!</em>
 </p>
 
 <div align="center">
