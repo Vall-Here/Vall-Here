@@ -84,6 +84,10 @@
   </picture>
 </div>
 
+### Support
+
+[![Saweria](https://img.shields.io/badge/☕%20Traktir%20Saya-Saweria-orange?style=for-the-badge)](https://saweria.co/valldev)
+
 <br>
 
 <div align="center">
