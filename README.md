@@ -22,7 +22,7 @@
 ### About Me
 
 - Graduated with Bachelor's Degree on Computer Engineering at **Trunojoyo Madura University**
-- I’m currently learning/exploring **Flutter, Next.js, Laravel, and Game Development Unity**
+- I’m currently learning/exploring **Flutter, Next.js, Golang, Laravel, and Game Development with Unity**
 - Ask me about **Web & Game Development**
 - How to reach me: via my **[Website](https://ahmadnoval-dev.my.id)**
 
@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Golang-0175C2?style=for-the-badge&logo=go&logoColor=white" />
 
 <br><br>
 **Frameworks & Libraries**<br>
