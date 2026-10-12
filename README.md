@@ -93,6 +93,6 @@
 
 <div align="center">
   <a href="https://github.com/Vall-Here">
-    <img src="https://komarev.com/ghpvc/?username=Vall-Here&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Vall-Here&color=blue&style=flat-square&label=Yang+Gabut" alt="Yang Liat2" />
   </a>
 </div>
